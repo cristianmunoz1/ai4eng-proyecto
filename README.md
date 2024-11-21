@@ -25,3 +25,6 @@ Se agregan 2 preprocesados adicionales en los notebooks 04, 10. Los notebooks si
 - Generamos un modelo de Random Forest usando el preprocesado que se encuentra en el notebook #4 (Notebook 9)
 - Generamos un modelo de Random Forest usando el preprocesado que se encuentra en el notebook #10 (Notebook 12)
 - Generamos un modelo de XGBoost usando el preprocesado que se encuentra en el notebook #10 (Notebook 99)
+
+Video de la entrega: 
+https://youtu.be/2vzonIAx9fo
