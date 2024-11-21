@@ -14,3 +14,14 @@ En el archivo exploracion.ipynb se puede observar como se cargan los datos de la
 ## Segunda entrega
 Se agrega el segundo archivo 02 - preprocesado.ipynb el cual tiene todo el preprocesamiento de los datos explicado en el siguiente video:
 https://youtu.be/d5RnQEBqfIY
+
+
+## Tercera entrega
+Se agregan 2 preprocesados adicionales en los notebooks 04, 10. Los notebooks siguientes a los anterior mencionados contienen el mismo preprocesado solo que para el archivo de test.csv
+
+- Generamos un modelo de regresión logística usando el preprocesado que enviamos para la entrega #2 (Notebook 6)
+- Generamos un modelo de Árbol de decisión usando el preprocesado que enviamos para la entrega #2 (Notebook 7)
+- Generamos un modelo de Árbol de decisión usando el preprocesado que se encuentra en el notebook #4 (Notebook 8)
+- Generamos un modelo de Random Forest usando el preprocesado que se encuentra en el notebook #4 (Notebook 9)
+- Generamos un modelo de Random Forest usando el preprocesado que se encuentra en el notebook #10 (Notebook 12)
+- Generamos un modelo de XGBoost usando el preprocesado que se encuentra en el notebook #10 (Notebook 99)
